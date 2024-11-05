@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "username": "alfatih",
+            "password": "17alfatih17",
+            "email": "alfatih17@gmail.comn",
+            "group": "admin",
+            "isMember": 1
+        },
+        {
+            "username": "alfatih",
+            "password": "17alfatih17",
+            "email": "alfatih17@gmail.comn",
+            "group": "user",
+            "isMember": 0
+        },
+        {
+            "username": "Joe",
+            "password": "123joe123",
+            "email": "joe@labstack",
+            "group": "user",
+            "isMember": 0
+        }
+    ]
+}
